@@ -3,17 +3,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/paimon.png" alt="Paimon" width="80" height="80">
+  <a href="https://github.com/farulwananda">
+    <img src="images/paimon.png" alt="Images" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadmeKu</h3>
+  <h3 align="center">API Sablon.in</h3>
 
   <p align="center">
-    Template README untuk mempermudah pekerjaan!
-    <br />
-    <a href="https://github.com/farulwananda/learn-readme"><strong>Dokumentasi »</strong></a>
-    <br />
+    Dokumentasi API Sablon.in
+
 </div>
 
 <!-- ABOUT THE PROJECT -->
