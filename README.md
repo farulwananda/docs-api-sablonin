@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/farulwananda">
-    <img src="images/paimon.png" alt="Images" width="80" height="80">
+    <img src="public/logo.png" alt="Images" width="80" height="80">
   </a>
 
   <h3 align="center">API Sablon.in</h3>
@@ -32,7 +32,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/login/login.php
 GET : https://mordertest.000webhostapp.com/configs/api/login/login.php
 ```
 
-<img src="images/login.png" alt="Images">
+<img src="public/login.png" alt="Images">
 
 ## 📌 API Kelola Barang
 
@@ -50,7 +50,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/barang/view-barang.php
 
 ```
 
-<img src="images/view-barang.png" alt="Images">
+<img src="public/view-barang.png" alt="Images">
 
 ### 🔗 Mengambil Data Barang
 
@@ -66,7 +66,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/barang/get-barang.php
 
 ```
 
-<img src="images/get-barang.png" alt="Images">
+<img src="public/get-barang.png" alt="Images">
 
 ### 🔗 Generate Kode Data Barang
 
@@ -82,7 +82,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/barang/barang-generate.php
 
 ```
 
-<img src="images/generate-code-barang.png" alt="Images">
+<img src="public/generate-code-barang.png" alt="Images">
 
 ### 🔗 Insert Data Barang
 
@@ -98,7 +98,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/barang/barang-insert.php
 
 ```
 
-<img src="images/barang-insert.png" alt="Images">
+<img src="public/barang-insert.png" alt="Images">
 
 ### 🔗 Update Data Barang
 
@@ -114,7 +114,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/barang/barang-update.php
 
 ```
 
-<img src="images/barang-update.png" alt="Images">
+<img src="public/barang-update.png" alt="Images">
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
@@ -134,7 +134,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/kategori/view-kategori.php
 
 ```
 
-<img src="images/view-kategori.png" alt="Images">
+<img src="public/view-kategori.png" alt="Images">
 
 ### 🔗 Mengambil Data Kategori
 
@@ -150,7 +150,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/kategori/get-kategori.php
 
 ```
 
-<img src="images/get-kategori.png" alt="Images">
+<img src="public/get-kategori.png" alt="Images">
 
 ### 🔗 Generate Kode Data Kategori
 
@@ -166,7 +166,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/kategori/kategori-generate.php
 
 ```
 
-<img src="images/generate-code-kategori.png" alt="Images">
+<img src="public/generate-code-kategori.png" alt="Images">
 
 ### 🔗 Insert Data Kategori
 
@@ -182,7 +182,7 @@ POST : https://ws-tif.com/sablon-in/configs/api/kategori/kategori-insert.php
 
 ```
 
-<img src="images/kategori-insert.png" alt="Images">
+<img src="public/kategori-insert.png" alt="Images">
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
@@ -202,7 +202,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/pegawai/view-pegawai.php
 
 ```
 
-<img src="images/view-pegawai.png" alt="Images">
+<img src="public/view-pegawai.png" alt="Images">
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
@@ -222,7 +222,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/riwayat/view-riwayat.php
 
 ```
 
-<img src="images/view-riwayat.png" alt="Images">
+<img src="public/view-riwayat.png" alt="Images">
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
@@ -242,7 +242,7 @@ GET : https://ws-tif.com/sablon-in/configs/api/ulasan/view-ulasan.php
 
 ```
 
-<img src="images/view-ulasan.png" alt="Images">
+<img src="public/view-ulasan.png" alt="Images">
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
